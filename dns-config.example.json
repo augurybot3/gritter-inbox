@@ -1,0 +1,5 @@
+{
+	"endpoint": "https://api.porkbun.com/api/json/v3",
+	"apikey": "pk1_e75cb41344dc890975ac071c837c0f877a9d220145862f4f5a9ceeb88375a508",
+	"secretapikey": "sk1_150c60af128d663c48305a27b352658f04abf3303d0e8440b83dacd461e431c9"
+}
